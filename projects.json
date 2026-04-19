@@ -1108,5 +1108,20 @@
   "district": "NJ-09",
   "state": "NJ",
   "tags": ["social", "accessibility"]
+},
+{
+  "slug": "CT-05",
+  "name": "Nicolas Campisi",
+  "appName": "Snap & Snack",
+  "description": "Snap the food product's info, and Snack safely with allergy and nutrition insights.",
+  "thumbnail": "sites/CT-05/thumbnail.png",
+  "location": {
+    "lat": 41.809639,
+    "lng": -72.830551,
+    "label": "Avon, CT"
+  },
+  "district": "CT-05",
+  "state": "CT",
+  "tags": ["allergy", "accessibility", "community"]
 }
 ]
